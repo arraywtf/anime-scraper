@@ -17,6 +17,7 @@ When it asks you for the redirect URL put this `https://localhost/`
 
 After that copy your client `ID` and the `Secret`, and paste it in the python program.
 
+
 ## Disclaimer
 I am not responsible nor liable for anything that you do with this. 
 
@@ -24,3 +25,4 @@ This is for educational purposes only.
 
 Also if you overload their API and get a fine that's not my fault - just saying..
 
+![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZhZTQwN2U3MTJiYTIwNzdiMjMwMDViZDgwYTVlOTc0ODE1MjkzZCZjdD1n/AjAPcoGVUOk0yH4IN7/giphy-downsized.gif)
